@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,6 +41,10 @@
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindowViewModel.cs",
@@ -48,7 +52,11 @@
               "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\MainWindowViewModel.cs",
               "ToolTip": "C:\\Users\\ZBJ\\Desktop\\GitReposter\\WpfApp1\\WpfApp1\\ViewModel\\MainWindowViewModel.cs",
               "RelativeToolTip": "WpfApp1\\ViewModel\\MainWindowViewModel.cs",
+<<<<<<< .mine
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAdAAAAAAAAAA==",
+>>>>>>> .theirs
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T12:19:01.808Z",
               "EditorCaption": ""
