@@ -35,3 +35,8 @@ packages/
 # OS generated files
 ehthumbs.db
 Icon?
+
+# Explicitly ignore Visual Studio workspace and Debug obj folders
+.vs/
+**/obj/Debug/
+obj/Debug/

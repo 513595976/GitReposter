@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZBJ\\Desktop\\GitReposter\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
+    "C:\\Users\\ZBJ\\Desktop\\GitReposter\\GitReposter\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZBJ\\Desktop\\GitReposter\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
+    "C:\\Users\\ZBJ\\Desktop\\GitReposter\\GitReposter\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZBJ\\Desktop\\GitReposter\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectUniqueName": "C:\\Users\\ZBJ\\Desktop\\GitReposter\\GitReposter\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
         "projectName": "WpfApp1",
-        "projectPath": "C:\\Users\\ZBJ\\Desktop\\GitReposter\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectPath": "C:\\Users\\ZBJ\\Desktop\\GitReposter\\GitReposter\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
         "packagesPath": "C:\\Users\\ZBJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZBJ\\Desktop\\GitReposter\\WpfApp1\\WpfApp1\\obj\\",
+        "outputPath": "C:\\Users\\ZBJ\\Desktop\\GitReposter\\GitReposter\\WpfApp1\\WpfApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

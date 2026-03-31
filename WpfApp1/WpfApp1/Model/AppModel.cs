@@ -8,7 +8,7 @@ namespace WpfApp1.Model
 {
     public class AppModel
     {
-        public int Test1Name { get; set; }
+        public int NameTest1 { get; set; }
         public string Name { get; set; }
     }
 }
