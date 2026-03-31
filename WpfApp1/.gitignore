@@ -1,0 +1,37 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+_ReSharper*/
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+publish/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# Rider
+.idea/
+
+# OS generated files
+ehthumbs.db
+Icon?

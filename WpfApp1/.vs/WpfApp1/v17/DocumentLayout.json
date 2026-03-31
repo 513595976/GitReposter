@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ZBJ\\Desktop\\GitReposter\\WpfApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D51142E2-2397-4264-8B2E-9A051E002B95}|WpfApp1\\WpfApp1.csproj|c:\\users\\zbj\\desktop\\gitreposter\\wpfapp1\\wpfapp1\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51142E2-2397-4264-8B2E-9A051E002B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D51142E2-2397-4264-8B2E-9A051E002B95}|WpfApp1\\WpfApp1.csproj|c:\\users\\zbj\\desktop\\gitreposter\\wpfapp1\\wpfapp1\\model\\appmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51142E2-2397-4264-8B2E-9A051E002B95}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\model\\appmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D51142E2-2397-4264-8B2E-9A051E002B95}|WpfApp1\\WpfApp1.csproj|c:\\users\\zbj\\desktop\\gitreposter\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,24 +41,16 @@
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ZBJ\\Desktop\\GitReposter\\WpfApp1\\WpfApp1\\ViewModel\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\ZBJ\\Desktop\\GitReposter\\WpfApp1\\WpfApp1\\ViewModel\\MainWindowViewModel.cs",
-              "RelativeToolTip": "WpfApp1\\ViewModel\\MainWindowViewModel.cs",
-<<<<<<< .mine
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
-=======
+              "Title": "AppModel.cs",
+              "DocumentMoniker": "C:\\Users\\ZBJ\\Desktop\\GitReposter\\WpfApp1\\WpfApp1\\Model\\AppModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Model\\AppModel.cs",
+              "ToolTip": "C:\\Users\\ZBJ\\Desktop\\GitReposter\\WpfApp1\\WpfApp1\\Model\\AppModel.cs",
+              "RelativeToolTip": "WpfApp1\\Model\\AppModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAdAAAAAAAAAA==",
->>>>>>> .theirs
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T12:19:01.808Z",
+              "WhenOpened": "2026-03-31T12:57:32.289Z",
               "EditorCaption": ""
             },
             {
@@ -81,7 +73,7 @@
               "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\ZBJ\\Desktop\\GitReposter\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T12:17:57.114Z",
               "EditorCaption": ""
