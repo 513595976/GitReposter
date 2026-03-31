@@ -8,5 +8,6 @@ namespace TestDemo.Model
 {
     public class AppModel
     {
+        public string NameMain { get; set; }
     }
 }
