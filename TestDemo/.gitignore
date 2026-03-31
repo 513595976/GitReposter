@@ -1,0 +1,68 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+Debug*/
+Release*/
+
+# Rider/IDE
+.idea/
+*.DotSettings.user
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+
+# Publish output
+publish/
+Publish/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Database files
+*.mdf
+*.ldf
+
+# Others
+*.vsix
+.vsixmanifest
+
+# Ignore user-specific files
+*.userprefs
+
+# Local secrets
+secrets.json
+appsettings.Development.json
+
+# Generated files
+*.dbmdl
+
+# Lock files (optional)
+packages.lock.json
+
+# End of file
