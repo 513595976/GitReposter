@@ -16,7 +16,7 @@ _ReSharper*/
 # Build output
 bin/
 obj/
-Debug/
+**/Debug/**
 Release/
 publish/
 *.exe
