@@ -1,4 +1,19 @@
-﻿using System;
+﻿<<<<<<< .mine
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,3 +26,4 @@ namespace TestDemo.Model
         public string NameTest1 { get; set; }
     }
 }
+>>>>>>> .theirs
