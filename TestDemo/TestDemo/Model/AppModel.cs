@@ -1,18 +1,4 @@
-﻿<<<<<<< .mine
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,6 +10,8 @@ namespace TestDemo.Model
     public class AppModel
     {
         public string NameTest1 { get; set; }
+
+        public int NumberTest1 { get; set; }
     }
 }
->>>>>>> .theirs
+
