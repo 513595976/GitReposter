@@ -8,6 +8,11 @@ namespace WpfApp1.ViewModel
 {
     public class MainWindowViewModel
     {
-        public int Number { get; set; }
+        public int NumberNAme { get; set; }
+
+        public string Name { get; set; }
+        public string Description { get; set; }
+
+
     }
 }
